@@ -9,5 +9,5 @@
 **Admin Login Details**
 
 Email	: eke@gmail.com
-Password: admin
+Password: admin123
 
